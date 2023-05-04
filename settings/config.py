@@ -4,7 +4,7 @@ import os
 
 
 ## App settings
-name = "COVID -19"
+name = "COVID -19 Virus will be GONE by 2023"
 
 host = "0.0.0.0"
 
